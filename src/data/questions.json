@@ -1,0 +1,206 @@
+[
+  {
+    "id": 1,
+    "question": "Sodium and chlorine are reacted, and as a result, sodium chloride is formed, which is also called table salt. What option gives the reactants and products of the reaction?",
+    "options": {
+      "a": "Reactants – sodium; products – chlorine",
+      "b": "Reactants – sodium and table salt; products – chlorine",
+      "c": "Reactants – tables salt; products – sodium and chlorine",
+      "d": "Reactants – sodium and chlorine; products – sodium chloride"
+    },
+    "correctAnswer": "d",
+    "imageUrl": null
+  },
+  {
+    "id": 2,
+    "question": "Which of the following reaction can also be termed a thermal decomposition reaction?",
+    "options": {
+      "a": "Combination reaction",
+      "b": "Decomposition reaction",
+      "c": "Displacement reaction",
+      "d": "Double displacement reaction"
+    },
+    "correctAnswer": "b",
+    "imageUrl": null
+  },
+  {
+    "id": 3,
+    "question": "The image shows some chemical reactions. Which option identifies the reactants and products of the reactions?",
+    "options": {
+      "a": "Option A: Reactants – Magnesium ribbon, Products – Magnesium oxide; Option B: Reactants – Lead nitrate, Products – Lead oxide and Nitrogen dioxide",
+      "b": "Option A: Reactants – Magnesium ribbon, Products – Magnesium oxide; Option B: Reactants – Carbon dioxide, Products – Lead oxide and Nitrogen dioxide",
+      "c": "Option A: Reactants – Magnesium ribbon, Products – Magnesium oxide; Option B: Reactants – Lead nitrate, Products – Lead oxide and Nitrogen dioxide",
+      "d": "Option A: Reactants – Magnesium oxide, Products – Magnesium ribbon; Option B: Reactants – Lead nitrate, Products – Lead oxide and Nitrogen dioxide"
+    },
+    "correctAnswer": "c",
+    "imageUrl": "https://storage.googleapis.com/workspace-0f70711f-8b4e-4d94-86f1-2a93ccde5887/image/a9cee299-cea3-4902-9f1d-988cb6eeaf63.png"
+  },
+  {
+    "id": 4,
+    "question": "A student performs an experiment to form aluminium chloride from aluminium and chlorine. Which of the following option gives the chemical equation of the reaction?",
+    "options": {
+      "a": "Al + Cl2 → AlCl2",
+      "b": "2Al + Cl2 → 2AlCl",
+      "c": "2Al + 3Cl2 → 2AlCl3",
+      "d": "3Al + 3Cl2 → 3AlCl3"
+    },
+    "correctAnswer": "c",
+    "imageUrl": null
+  },
+  {
+    "id": 5,
+    "question": "Give the ratio in which hydrogen and oxygen are present in water by volume.",
+    "options": {
+      "a": "1:2",
+      "b": "1:1",
+      "c": "2:1",
+      "d": "1:8"
+    },
+    "correctAnswer": "c",
+    "imageUrl": null
+  },
+  {
+    "id": 6,
+    "question": "A researcher adds barium hydroxide to hydrochloric acid to form a white-coloured barium chloride. Which of the following option gives the balanced chemical equation of the reaction?",
+    "options": {
+      "a": "HCl + Ba(OH)2 → BaCl2 + 2HOH",
+      "b": "2HCl + Ba(OH)2 → BaCl2 + 2HOH",
+      "c": "2HCl + Ba(OH)2 → BaH2 + 2HCl + O2",
+      "d": "HCl + 2Ba(OH) → 2BaCl2 + 2HOH + O2"
+    },
+    "correctAnswer": "b",
+    "imageUrl": null
+  },
+  {
+    "id": 7,
+    "question": "One of the following processes does not involve a chemical reaction, that is:",
+    "options": {
+      "a": "Melting of candle wax when heated",
+      "b": "Burning of candle wax when heated",
+      "c": "Digestion of food in your stomach",
+      "d": "Ripening of banana"
+    },
+    "correctAnswer": "a",
+    "imageUrl": null
+  },
+  {
+    "id": 8,
+    "question": "A student wrote a chemical equation of the reaction between carbon monoxide and hydrogen as, CO2 + 2H2 → CH3OH. How can the reaction be classified?",
+    "options": {
+      "a": "The reaction is an example of a combination reaction as a compound separates into two compounds.",
+      "b": "The reaction is an example of a decomposition reaction as a compound dissociates into two compounds.",
+      "c": "The reaction is an example of a combination reaction as two compounds react to form a single compound.",
+      "d": "The reaction is an example of a decomposition reaction as two compounds react to form a single compound."
+    },
+    "correctAnswer": "c",
+    "imageUrl": null
+  },
+  {
+    "id": 9,
+    "question": "The chemical formula of magnesium oxide is _____.",
+    "options": {
+      "a": "MgO2",
+      "b": "Mg2O",
+      "c": "MgO",
+      "d": "Mg(OH)2"
+    },
+    "correctAnswer": "c",
+    "imageUrl": null
+  },
+  {
+    "id": 10,
+    "question": "A student learns that some products are formed as a result of combining two compounds while some compounds are formed as a result of the dissociation of two compounds. The image shows two reactions. Which reaction is an example of a combination reaction and a decomposition reaction?",
+    "options": {
+      "a": "Both reactions are examples of combination reaction",
+      "b": "Both reactions are examples of a decomposition reaction",
+      "c": "Reaction P is an example of a combination reaction, while reaction Q is an example of a decomposition reaction",
+      "d": "Reaction P is an example of a decomposition reaction, while reaction Q is an example of a combination reaction"
+    },
+    "correctAnswer": "c",
+    "imageUrl": "https://storage.googleapis.com/workspace-0f70711f-8b4e-4d94-86f1-2a93ccde5887/image/abde0995-618a-449e-8889-19d997d571a9.png"
+  },
+  {
+    "id": 11,
+    "question": "From the following, which one is an example of a chemical reaction?",
+    "options": {
+      "a": "Grapes get fermented",
+      "b": "Breakdown of food",
+      "c": "Formation of curd",
+      "d": "All of the above"
+    },
+    "correctAnswer": "d",
+    "imageUrl": null
+  },
+  {
+    "id": 12,
+    "question": "A student adds lead and silver to two different test tubes containing an equal amount of copper sulphate solution. The student observes that the colour of the solution in the test tube with lead changes. What explains the change in the colour of the solution?",
+    "options": {
+      "a": "A displacement reaction takes place as lead replaces copper from the solution.",
+      "b": "A combination reaction takes place as lead combines with sulphate in the solution.",
+      "c": "A decomposition reaction takes place as copper dissociates from sulphate in the solution.",
+      "d": "A double displacement reaction takes place as copper dissociates from sulphate and lead combines with sulphate in the solution."
+    },
+    "correctAnswer": "a",
+    "imageUrl": null
+  },
+  {
+    "id": 13,
+    "question": "Which of the following reactions is used in black-and-white photography?",
+    "options": {
+      "a": "Combination Reaction",
+      "b": "Decomposition Reaction",
+      "c": "Displacement reaction",
+      "d": "Oxidation reaction"
+    },
+    "correctAnswer": "b",
+    "imageUrl": null
+  },
+  {
+    "id": 14,
+    "question": "What happens when lead nitrate reacts with potassium iodide?",
+    "options": {
+      "a": "They will not react",
+      "b": "A large amount of hydrogen will be released",
+      "c": "Yellow ppt of lead iodide and potassium nitrate will be produced",
+      "d": "Evolution of gas will occur"
+    },
+    "correctAnswer": "c",
+    "imageUrl": null
+  },
+  {
+    "id": 15,
+    "question": "The chemical reaction between potassium chloride and silver nitrate is given by the chemical equation, AgNO3 + KCl → AgCl + KNO3. What can be inferred from the chemical equation?",
+    "options": {
+      "a": "Silver nitrate and potassium undergo a decomposition reaction to form silver chloride and potassium nitrate",
+      "b": "Silver nitrate and potassium undergo a displacement reaction to form silver chloride and potassium nitrate",
+      "c": "Silver nitrate and potassium undergo a combination reaction to form silver chloride and potassium nitrate",
+      "d": "Silver nitrate and potassium undergo a double displacement reaction to form silver chloride and potassium nitrate"
+    },
+    "correctAnswer": "d",
+    "imageUrl": null
+  },
+  {
+    "id": 16,
+    "question": "Which of the following shows an oxidation reaction?",
+    "options": {
+      "a": "Gain of oxygen",
+      "b": "Loss of oxygen",
+      "c": "Gain of hydrogen",
+      "d": "None of the above"
+    },
+    "correctAnswer": "a",
+    "imageUrl": null
+  },
+  {
+    "id": 17,
+    "question": "The image shows a reaction between zinc and hydrogen. Which option shows oxidation?",
+    "options": {
+      "a": "Zn → Zn+2",
+      "b": "2H+ → H2",
+      "c": "Zn+2 → Zn",
+      "d": "H2 → 2H+"
+    },
+    "correctAnswer": "a",
+    "imageUrl": "https://storage.googleapis.com/workspace-0f70711f-8b4e-4d94-86f1-2a93ccde5887/image/afafdfc2-57a1-442f-9fb0-b01245aa82fb.png"
+  }
+]
